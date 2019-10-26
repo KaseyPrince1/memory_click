@@ -40,6 +40,68 @@
     "id": 8,
     "name": "A reflection nebula in Orion",
     "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0010a.jpg"
+    },
+    {
+    "id": 9,
+    "name": "Westerlund 2",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic1509a.jpg"
+    } ,
+    {
+    "id": 10,
+    "name": "Ghostly reflections in the Pleiades",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0036a.jpg"
+
+    } ,
+    {
+    "id": 11,
+    "name": "Revisiting the Veil Nebula",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic1520a.jpg"
+
+    } , 
+    {
+    "id": 12,
+    "name": "Messier 83",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic1403a.jpg"
+    },
+    {
+    "id": 13,
+    "name": "The Eskimo Nebula",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic9910a.jpg"
+    },
+    {
+    "id": 14,
+    "name": "Helix Nebula",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0432d.jpg"
+    },
+    {
+    "id": 15,
+    "name": "HBC 672",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic1819a.jpg"
+    },
+    {
+    "id": 16,
+    "name": "A reflection nebula in Orion",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0010a.jpg"
+    },
+    {
+    "id": 17,
+    "name": "The Eskimo Nebula",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic9910a.jpg"
+    },
+    {
+    "id": 18,
+    "name": "Helix Nebula",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0432d.jpg"
+    },
+    {
+    "id": 19,
+    "name": "HBC 672",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/heic1819a.jpg"
+    },
+    {
+    "id": 20,
+    "name": "A reflection nebula in Orion",
+    "image": "https://cdn.spacetelescope.org/archives/images/screen/opo0010a.jpg"
     }
 ]
   
